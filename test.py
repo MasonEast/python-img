@@ -1,6 +1,6 @@
 from rembg import remove
 
-input_path = 'C:\Users\admin\Desktop\python-img\input.jpg'
+input_path = './input.jpg'
 output_path = './output.png'
 
 with open(input_path, 'rb') as i:
